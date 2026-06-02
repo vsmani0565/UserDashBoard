@@ -50,8 +50,7 @@ This project includes `vercel.json` for SPA routing support on Vercel.
 ### Notes
 
 - `vercel.json` handles client-side routes like `/users/1`.
-- Add your live deployment URL here after publishing.
 
 ## Live Deployment Link
 
-_Add your Vercel URL here after deployment._
+https://user-dash-board-nu.vercel.app/
