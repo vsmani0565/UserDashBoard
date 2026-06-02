@@ -2,6 +2,20 @@
 
 A beginner-friendly React app for managing and browsing users from JSONPlaceholder.
 
+## Deliverables
+
+1. GitHub Repository
+	- Complete source code
+	- Proper folder structure
+2. README.md
+	- Project overview
+	- Setup instructions
+	- Features implemented
+	- Technologies used
+	- Live deployment link
+3. Live URL
+	- https://user-dash-board-nu.vercel.app/
+
 ## Project Overview
 
 - Search users by name
