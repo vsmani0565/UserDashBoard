@@ -263,7 +263,7 @@ function HomePage({ onOpenUser }) {
 
         <Pagination currentPage={currentPage} totalPages={totalPages} setCurrentPage={setCurrentPage} />
 
-        <footer className="page-footer">Assignment 3 — JSONPlaceholder users</footer>
+        {/* <footer className="page-footer">Assignment 3 — JSONPlaceholder users</footer> */}
       </section>
     </main>
   )
